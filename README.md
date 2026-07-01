@@ -22,3 +22,6 @@ Each solution includes:
 - Pattern
 - Time & Space Complexity
 - Key Idea
+  
+  ---
+Maintained by Nađa Kaluđerović.
